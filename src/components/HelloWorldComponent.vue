@@ -5,7 +5,7 @@
     <p>
       <a href="javascript:void(0)" @click="addWindow('https://www.bbc.com/news','BBC')">BBC</a> | 
       <a href="javascript:void(0)" @click="addWindow('https://www.reuters.com','Reuters')">Reuters</a> | 
-      <a href="javascript:void(0)" @click="addWindow('https://www.yahoo.com','DW')">DW</a><br />
+      <a href="javascript:void(0)" @click="addWindow('https://www.dw.com','DW')">DW</a><br />
       <a href="javascript:void(0)" @click="closeWindows">sign out</a>
     </p>
   </div>
